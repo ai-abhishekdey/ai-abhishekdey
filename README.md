@@ -30,5 +30,15 @@
 
 ---
 
+## 📁 Featured Projects
+
+- [🖼️ Computer_Vision](https://github.com/ai-abhishekdey/Computer_Vision) — Projects related to computer vision tasks.  
+- [💬 NLP](https://github.com/ai-abhishekdey/NLP) — Natural Language Processing projects.  
+- [🧠 LLM](https://github.com/ai-abhishekdey/LLM) — Experiments with Large Language Models.  
+- [🎙️ ASR](https://github.com/ai-abhishekdey/ASR) — Automatic Speech Recognition related work.  
+- [🐍 Python](https://github.com/ai-abhishekdey/Python) — Python programming examples and utilities.  
+- [🗄️ Mysql](https://github.com/ai-abhishekdey/Mysql) — MySQL learning and practice.
+
+
 ## ✨ Fun Fact
 I love blending **AI research with real-world healthcare applications** 🚑.
