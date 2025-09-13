@@ -8,7 +8,8 @@
 - 🌱 Exploring **LLMs, RAGs, Agentic AI & Multimodal AI**  
 - 💬 Ask me about **Computer Vision, ASR, and AI Model Development**  
 - 📫 Email me at **ai.abhishekdey@gmail.com**
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekdey)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishek-dey-ghy/)
+- 🌐 Portfolio: [🌟 ai-abhishekdey.com](https://ai-abhishekdey.github.io/) 
 - 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en)
 
 ---
