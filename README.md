@@ -7,8 +7,9 @@
 - 🔭 Currently working on **GenAI Projects**  
 - 🌱 Exploring **LLMs, RAGs, Agentic AI & Multimodal AI**  
 - 💬 Ask me about **Computer Vision, ASR, and AI Model Development**  
-- 📫 Reach me at **ai.abhishekdey@gmail.com**  
-- 🎓 Check out my [Publications]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en))  
+- 📫 Email me at **ai.abhishekdey@gmail.com**
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekdey)
+- 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en))  
 
 ---
 
@@ -19,14 +20,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kaldi](https://img.shields.io/badge/Kaldi-FF5733?style=for-the-badge&logo=kaldi&logoColor=white)
+![K2](https://img.shields.io/badge/K2-1E90FF?style=for-the-badge&logo=k2&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdey&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdey&layout=compact&theme=radical)
-
 
 ---
 
