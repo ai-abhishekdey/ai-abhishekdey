@@ -4,6 +4,7 @@
 ---
 
 ## 🚀 About Me
+- 💼 Senior AI Researcher by profession
 - 🌱 Currently exploring **LLMs, RAGs, Agentic AI & Multimodal AI**  
 - 💬 Ask me about **Computer Vision, ASR, and AI Model Development**  
 - 📫 Email me at **ai.abhishekdey@gmail.com**
