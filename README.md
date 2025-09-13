@@ -9,7 +9,7 @@
 - 💬 Ask me about **Computer Vision, ASR, and AI Model Development**  
 - 📫 Email me at **ai.abhishekdey@gmail.com**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/abhishekdey)
-- 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en))  
+- 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en)
 
 ---
 
@@ -25,8 +25,13 @@
 
 ---
 
-## 📊 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdey&show_icons=true&theme=radical)  
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=ai-abhishekdey&theme=radical&hide_border=true)
+
+---
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
