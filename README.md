@@ -29,11 +29,9 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ai-abhishekdey&theme=radical&hide_border=true)
 
-## 🔥 GitHub Profile Card
-![Abhishek Dey's GitHub Profile](https://github-readme-stats.vercel.app/api?username=ai-abhishekdey&show_icons=true&theme=radical)
+## 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-abhishekdey&layout=compact&theme=radical&langs_count=3)
 
-## 🔥 Top Languages used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-abhishekdey&layout=compact&theme=radical)
 
 ---
 
