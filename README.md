@@ -12,7 +12,7 @@
 - 🌐 Portfolio: [ai-abhishekdey.github.io](https://ai-abhishekdey.github.io/)
 - 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en)
 
-### 📜 Patents
+### 📜 Patents[Applied]
 
 - [System and method for removing personally identifiable information from medical data](https://patents.google.com/patent/US20200285771A1/en?inventor=Abhishek+Dey&oq=inventor:(Abhishek+Dey))
 - [Surgery evidence report generation](https://patents.google.com/patent/WO2023220674A2/en?inventor=Abhishek+Dey)
