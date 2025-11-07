@@ -59,11 +59,15 @@
 ## 📁 Featured Projects
 
 - [🖼️ Computer_Vision](https://github.com/ai-abhishekdey/Computer_Vision) — Projects related to computer vision tasks.  
-- [💬 NLP](https://github.com/ai-abhishekdey/NLP) — Natural Language Processing projects.  
+- [💬 NLP](https://github.com/ai-abhishekdey/NLP) — Natural Language Processing projects.
+- [🤖 Agentic-AI](https://github.com/ai-abhishekdey/Agentic-AI) - Agentic-AI Projects 
 - [🧠 LLM](https://github.com/ai-abhishekdey/LLM) — Experiments with Large Language Models.  
-- [🎙️ ASR](https://github.com/ai-abhishekdey/ASR) — Automatic Speech Recognition related work.  
+- [🎙️ ASR](https://github.com/ai-abhishekdey/ASR) — Automatic Speech Recognition related works.
+- [🎙️ TTS](https://github.com/ai-abhishekdey/TTS) — Text to Speech related works
 - [🐍 Python](https://github.com/ai-abhishekdey/Python) — Python programming examples and utilities.  
 - [🗄️ Mysql](https://github.com/ai-abhishekdey/Mysql) — MySQL learning and practice.
+- [🤗 Hugging Face](https://github.com/ai-abhishekdey/Hugging_Face) — Hugging Face tutorials
+- [📊 MLflow](https://github.com/ai-abhishekdey/MLflow) — MLflow learnings
 
 
 ## ✨ Fun Fact
