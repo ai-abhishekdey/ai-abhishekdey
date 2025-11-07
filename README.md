@@ -22,12 +22,16 @@
 **Frameworks & Libraries**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6E1A?style=flat&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1F2937?style=flat)
 ![Kaldi](https://img.shields.io/badge/-Kaldi-0055A4?style=flat)
 ![k2](https://img.shields.io/badge/-k2-007ACC?style=flat)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF3E00?style=flat)
+![MLflow](https://img.shields.io/badge/-MLflow-13B5EA?style=flat&logo=mlflow&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
