@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=gnu-bash&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frameworks & MLOPS Tools**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6E1A?style=flat&logo=huggingface&logoColor=white)
@@ -31,6 +31,8 @@
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF3E00?style=flat)
 ![MLflow](https://img.shields.io/badge/-MLflow-13B5EA?style=flat&logo=mlflow&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+
 
 
 **Databases**  
@@ -73,6 +75,7 @@
 - [🗄️ Mysql](https://github.com/ai-abhishekdey/Mysql) — MySQL learning and practice.
 - [🤗 Hugging Face](https://github.com/ai-abhishekdey/Hugging_Face) — Hugging Face tutorials
 - [📊 MLflow](https://github.com/ai-abhishekdey/MLflow) — MLflow learnings
+- [🗄️ DVC](https://github.com/ai-abhishekdey/DVC) — DVC learnings
 
 
 ## ✨ Fun Fact
