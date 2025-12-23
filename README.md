@@ -11,7 +11,25 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishek-dey-ghy/)
 - 🌐 Portfolio: [ai-abhishekdey.github.io](https://ai-abhishekdey.github.io/)
 - 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en)
-  
+
+---
+
+## 📁 Featured Projects
+
+- [🖼️ Computer_Vision](https://github.com/ai-abhishekdey/Computer_Vision) — Projects related to computer vision tasks.  
+- [💬 NLP](https://github.com/ai-abhishekdey/NLP) — Natural Language Processing projects.
+- [🤖 Agentic-AI](https://github.com/ai-abhishekdey/Agentic-AI) - Agentic-AI Projects 
+- [🧠 LLM](https://github.com/ai-abhishekdey/LLM) — Experiments with Large Language Models.
+- [🤖 LangChain](https://github.com/ai-abhishekdey/Langchain) - LangChain learnings
+- [🎙️ ASR](https://github.com/ai-abhishekdey/ASR) — Automatic Speech Recognition related works.
+- [🎙️ TTS](https://github.com/ai-abhishekdey/TTS) — Text to Speech related works
+- [🐍 Python](https://github.com/ai-abhishekdey/Python) — Python programming examples and utilities.  
+- [🗄️ Mysql](https://github.com/ai-abhishekdey/Mysql) — MySQL learning and practice.
+- [🤗 Hugging Face](https://github.com/ai-abhishekdey/Hugging_Face) — Hugging Face tutorials
+- [📊 MLflow](https://github.com/ai-abhishekdey/MLflow) — MLflow learnings
+- [🗄️ DVC](https://github.com/ai-abhishekdey/DVC) — DVC learnings
+
+
 ---
 ### 🛠️ Skills & Tools
 
@@ -32,8 +50,6 @@
 ![MLflow](https://img.shields.io/badge/-MLflow-13B5EA?style=flat&logo=mlflow&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
-
-
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -62,21 +78,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-## 📁 Featured Projects
-
-- [🖼️ Computer_Vision](https://github.com/ai-abhishekdey/Computer_Vision) — Projects related to computer vision tasks.  
-- [💬 NLP](https://github.com/ai-abhishekdey/NLP) — Natural Language Processing projects.
-- [🤖 Agentic-AI](https://github.com/ai-abhishekdey/Agentic-AI) - Agentic-AI Projects 
-- [🧠 LLM](https://github.com/ai-abhishekdey/LLM) — Experiments with Large Language Models.
-- [LangChain](https://github.com/ai-abhishekdey/Langchain) - LangChain learnings
-- [🎙️ ASR](https://github.com/ai-abhishekdey/ASR) — Automatic Speech Recognition related works.
-- [🎙️ TTS](https://github.com/ai-abhishekdey/TTS) — Text to Speech related works
-- [🐍 Python](https://github.com/ai-abhishekdey/Python) — Python programming examples and utilities.  
-- [🗄️ Mysql](https://github.com/ai-abhishekdey/Mysql) — MySQL learning and practice.
-- [🤗 Hugging Face](https://github.com/ai-abhishekdey/Hugging_Face) — Hugging Face tutorials
-- [📊 MLflow](https://github.com/ai-abhishekdey/MLflow) — MLflow learnings
-- [🗄️ DVC](https://github.com/ai-abhishekdey/DVC) — DVC learnings
 
 
 ## ✨ Fun Fact
