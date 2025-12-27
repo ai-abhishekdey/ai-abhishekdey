@@ -29,6 +29,7 @@
 - [🤗 Hugging Face](https://github.com/ai-abhishekdey/Hugging_Face) — Hugging Face tutorials
 - [📊 MLflow](https://github.com/ai-abhishekdey/MLflow) — MLflow learnings
 - [🗄️ DVC](https://github.com/ai-abhishekdey/DVC) — DVC learnings
+- [☸️ Kubernetes](https://github.com/ai-abhishekdey/Kubernetes) — Kubernetes learnings
 
 
 ---
@@ -52,11 +53,13 @@
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 
+
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Others / Cloud & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GCS](https://img.shields.io/badge/-Google_Cloud_Storage-4285F4?style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
