@@ -9,7 +9,7 @@
 - 💬 Ask me about **Computer Vision, ASR, and AI Model Development**  
 - 📫 Email me at **ai.abhishekdey@gmail.com**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishek-dey-ghy/)
-- 🌐 Portfolio: [https://www.abhishekdey.in/](https://www.abhishekdey.in/)
+- 🌐 Portfolio: [www.abhishekdey.in](https://www.abhishekdey.in/)
 - 🎓 Check out my [Publications](https://scholar.google.co.in/citations?user=2hZ2JnQAAAAJ&hl=en)
 
 ---
